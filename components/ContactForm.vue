@@ -1,5 +1,5 @@
 <template>
-    <form id="contact-form" class="text-sm">
+    <form id="contact-form" class="text-sm" netlify>
         <div class="flex flex-col">
             <label for="name" class="mb-3">_name:</label>
             <input type="text" id="name-input" name="name" :placeholder="name" class="p-2 mb-5 placeholder-slate-600" required>
