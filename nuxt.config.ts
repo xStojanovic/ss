@@ -1,4 +1,4 @@
-const config = require('./developer.json')
+const config = require('./info.json')
 const siteTitle = `${config.name} | ${config.role}`
 
 
