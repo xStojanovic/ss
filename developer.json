@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "Stefan Stojanovic",
+    "logo_name": "stefan-stojanovic",
+    "role": "IT Manager",
     "about": {
         "sections": {
             "professional-info": {
@@ -10,15 +10,15 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>With over a decade of experience in game and web development, I've contributed to the industry's dynamic evolution. Currently working as an IT Manager in the iGaming company, I drive excellence and innovation in technology operations."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Specializing in web development, I master platforms like Webflow and WordPress. I create visually stunning and functional websites, enriching user experiences. Additionally, I have hands-on experience with Jira Software Cloud and a strong understanding of Agile project management."
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I’ve demonstrated leadership, strategic planning, and problem-solving skills as an IT Manager. I’ve effectively communicated with my team and stakeholders, managed multiple projects simultaneously, and shown adaptability and a strong work ethic."
                     }
                 }
             },
@@ -64,50 +64,26 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "stefansdigital@gmail.com",
+                "phone": "+381617220627"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
-                "url": "https://github.com/",
-                "user": "username"
+                "url": "https://github.com/xStojanovic",
+                "user": "xStojanovic"
             },
-            "facebook": {
-                "title": "Facebook profile",
-                "url": "https://facebook.com/",
-                "user": "username"
-            },
-            "twitter": {
-                "title": "Twitter account",
-                "url": "https://twitter.com/",
-                "user": "username"
-            }
         },
         "find_me_also_in": {
             "title": "find-me-also-in",
             "sources": {
-                "youtube": {
-                    "title": "YouTube channel",
-                    "url": "https://www.youtube.com/",
-                    "user": "username"
-                },
-                "gurushots": {
-                    "title": "GuruShots profile",
-                    "url": "https://gurushots.com/",
-                    "user": "username"
-                },
+                
                 "instagram": {
                     "title": "Instagram account",
-                    "url": "https://instagram.com/",
-                    "user": "username"
+                    "url": "https://instagram.com/ststojanovic_",
+                    "user": "ststojanovic_"
                 },
-                "twitch": {
-                    "title": "Twitch profile",
-                    "url": "https://twitch.com/",
-                    "user": "username"
-                }
             }
         }
     },
